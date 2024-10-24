@@ -15,6 +15,6 @@ In this project, I will create a locally running chatbot on a personal computer 
 
 **Limitations:**
 1. Since it uses the Ctransformer library (model running on CPU), the performance is not high. You can use Transformer + Pytorch to run the model on GPU.
-2.Chat memory has not been designed to improve accuracy in responses.
+2. Chat memory has not been designed to improve accuracy in responses.
 3. The evaluation setup for comparing performance has not been implemented.
 
